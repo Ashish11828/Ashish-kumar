@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">Android & XR Developer | Software Engineer | Passionate about crafting immersive experiences."</h3>
+<h3 align="center">ios and android , Gmae dev | Software Engineer | Passionate about crafting immersive experiences."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish11828&label=Profile%20views&color=0e75b6&style=flat" alt="ashish11828" /> </p>
 
